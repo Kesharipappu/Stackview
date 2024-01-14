@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Home.qml</file>
+        <file>Contacts.qml</file>
+        <file>Messaging.qml</file>
+    </qresource>
+</RCC>
